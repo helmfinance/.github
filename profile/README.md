@@ -4,7 +4,7 @@
 with on-chain reputation, REIT-style yield distribution, and rug-pull-resistant 
 subordinated founder structure.
 
-Built for the [Mantle Turing Test Hackathon 2026](https://dorahacks.io/hackathon/turing-test).
+Built for the [Mantle Turing Test Hackathon 2026](https://dorahacks.io/hackathon/mantleturingtesthackathon2026).
 
 ## Repos
 
