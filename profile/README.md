@@ -9,5 +9,10 @@ Built for the [Mantle Turing Test Hackathon 2026](https://dorahacks.io/hackathon
 ## Repos
 
 - [`contracts`](https://github.com/helmfinance/contracts) — Solidity smart contracts
-- [`frontend`](https://github.com/helmfinance/frontend)
+- [`frontend`](https://github.com/helmfinance/frontend) — Next.js / TypeScript web app (helmfi.xyz)
 - [`backend`](https://github.com/helmfinance/backend) — Python AI agent runtime
+
+## Links
+
+- 🎬 Demo: https://youtu.be/ur8jCS4AzWE
+- 🌐 Live app: https://helmfi.xyz
